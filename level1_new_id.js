@@ -25,6 +25,6 @@ function solution(new_id) {
         }
     }
     answer = fixedId.join("");
-    
+   
     return answer;
 }
